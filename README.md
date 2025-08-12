@@ -1,2 +1,12 @@
 # StudyCommunity-Blog
-The idea behind this is that it is supposed to be a blog community for students of a specific school where they can share ideas about their studies.
+This project is intended to be a blog community where people from a specific school can share ideas and updates about their studies, work and innovations.
+
+# How It's Made: 
+**Tech used:** Python, Flask, HTML, CSS, Bootstrap
+
+I built this website using Flask for the backend bit and for the frontend part I used HTML, CSS and also Bootstrap to help me out. 
+
+Everything was done using PyCharm.
+
+# How To Run The Project:
+Open the project folder in a code editor and run the file 'main.py'
