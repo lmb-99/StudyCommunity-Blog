@@ -1,6 +1,8 @@
 # StudyCommunity-Blog
 Created a blogging platform with Flask, including CRUD posts and user login system.
 
+Come by and make a post :) https://study-community-6c0ba81c6ef2.herokuapp.com/ 
+
 # Frontend: 
 - HTML
 - CSS
